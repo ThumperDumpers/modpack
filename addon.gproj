@@ -1,0 +1,40 @@
+GameProject {
+ ID "ThumperDumpersModpack"
+ GUID "5B10D57460071EA0"
+ TITLE "Thumper Dumpers Modpack"
+ Dependencies {
+  "58D0FB3206B6F859"
+
+  "5AAF6D5352E5FCAB"
+  "59D64ADD6FC59CBF"
+
+  "597D72161FD1ED1D" 
+  "5AB301290317994A"
+  "5ABD0CB57F7E9EB1"
+  "5AB890B71D748750"
+
+  "599B257917391BF7"
+  "58D0FB3206B6F859" 
+
+  "5B02128D896F7DE8"
+  "5B24B138802EF76E"
+
+  "5A64DE35CCD36695"
+  "5994AD5A9F33BE57"
+  "597F187230094D01"
+  "5AD1388C02298863"
+  "599EA10D9D56EAAF"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
